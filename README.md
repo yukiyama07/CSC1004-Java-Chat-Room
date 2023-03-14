@@ -1,2 +1,2 @@
-# CSC1004-Java-Movie Management System
+# CSC1004-Java-Chat-Room
  
