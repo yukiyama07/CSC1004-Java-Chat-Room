@@ -1,0 +1,4 @@
+--patch-module
+FuChat.Client=_
+--add-reads
+FuChat.Client=ALL-UNNAMED
